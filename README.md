@@ -1,4 +1,4 @@
 # hot-glue-injection-molding
 
-### a DIY hot glue injection molding machine
+### A DIY hot glue injection molding machine
 
